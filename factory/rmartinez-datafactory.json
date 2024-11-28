@@ -1,0 +1,9 @@
+{
+	"name": "rmartinez-datafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9867697c-c36c-4dee-824e-6d4423d419f8",
+		"tenantId": "158319a0-da66-4523-bc1c-c0f2b9193ba6"
+	}
+}
