@@ -1,6 +1,7 @@
 {
 	"name": "capaplata_capaoro",
 	"properties": {
+		"description": "Ejecutar cuaderno databricks para transferencia desde capa plata hacia capa oro",
 		"activities": [
 			{
 				"name": "Notebook1",
