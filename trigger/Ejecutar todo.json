@@ -1,0 +1,24 @@
+{
+	"name": "Ejecutar todo",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Started",
+		"pipelines": [
+			{
+				"pipelineReference": {
+					"referenceName": "Ejecutar todo",
+					"type": "PipelineReference"
+				}
+			}
+		],
+		"type": "ScheduleTrigger",
+		"typeProperties": {
+			"recurrence": {
+				"frequency": "Day",
+				"interval": 1,
+				"startTime": "2024-12-05T07:33:00",
+				"timeZone": "SA Pacific Standard Time"
+			}
+		}
+	}
+}
