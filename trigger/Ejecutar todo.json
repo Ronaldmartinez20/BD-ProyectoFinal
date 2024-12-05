@@ -14,8 +14,8 @@
 		"type": "ScheduleTrigger",
 		"typeProperties": {
 			"recurrence": {
-				"frequency": "Day",
-				"interval": 1,
+				"frequency": "Minute",
+				"interval": 2,
 				"startTime": "2024-12-04T22:56:00",
 				"timeZone": "SA Pacific Standard Time"
 			}
